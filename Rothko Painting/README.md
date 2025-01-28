@@ -4,5 +4,5 @@ A simple HTML and CSS project replicating the style of a Rothko painting. This p
 
 Features
     - Canvas Structure: The painting is designed using div elements styled with CSS.
-    - Blur and Shadow Effects: CSS filters and box shadows add depth and texture to the design.
+    - Blur and Shadow Effects: CSS filters and box shadows add depth and texture to the design
     - Responsive Layout: The painting is centered with a framed layout for aesthetic balance.
