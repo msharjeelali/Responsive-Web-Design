@@ -6,4 +6,4 @@ Features:
 
 * Structured Layout: Uses HTML to structure the nutrition information in a clear and accessible way.
 * CSS Styling: Applies CSS to style the label, ensuring it is visually similar to real-world nutrition labels.
-*Responsive Design: Adapts to different screen sizes, making it accessible on various devices.
+* Responsive Design: Adapts to different screen sizes, making it accessible on various devices.
