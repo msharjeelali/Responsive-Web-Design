@@ -1,0 +1,67 @@
+html{
+  font-size: 14px;
+}
+
+#main{
+  background-color: #eee;
+  font-size: 2rem;
+}
+
+#title{
+  font-size: 4rem;
+  text-align: center;
+  padding: 50px 0;
+}
+
+figure{
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+min-width: 500px;
+}
+
+#image{
+  width: 90%;
+  max-width: 100%;
+  min-width: 500px;
+}
+
+#img-caption{
+  width: 90%;
+  min-width: 500px;
+  text-align: center;
+  color: #333;
+  margin: 50px 0;
+}
+
+#tribute-info{
+  width: 60%;
+  margin: 0 auto;
+  color: #333;
+  padding: 20px 0;
+}
+
+h2{
+    text-align: center;
+    font-size: 2rem;
+}
+
+li{
+  margin: 15px 0;
+}
+
+li span{
+  font-weight: bold;
+}
+
+#qoute{
+  font-style: italic;
+  text-align: center;
+}
+
+#last-p{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
