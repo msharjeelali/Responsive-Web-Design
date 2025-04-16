@@ -125,7 +125,6 @@ This repository is for the FreeCodeCamp Responsive Web Design course. It contain
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/msharjeelali/Responsive-Web-Design.git`
-2. Open the HTML file in your browser to view the project [Responsive Web Design](https://msharjeelali.github.io/Responsive-Web-Design/).
-3. Navigate to the project directory you are interested in.
+2. Navigate to the project directory you are interested in.
 
 Feel free to explore the projects and learn from the code. Happy coding!
